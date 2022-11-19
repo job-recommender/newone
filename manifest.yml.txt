@@ -1,0 +1,4 @@
+application:
+	-name:skillandjob
+	 random-route: true
+	 memory:512
